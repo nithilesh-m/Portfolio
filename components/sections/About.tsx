@@ -41,7 +41,7 @@ export default function About() {
             </h3>
             <p className="text-gray-300 leading-relaxed mb-4">
               I'm a passionate <span className="text-neon-purple font-semibold">B.Tech CSE student</span> at Keshav Memorial Institute of Technology, 
-              maintaining a strong <span className="text-neon-blue font-semibold">8.25 CGPA</span> in my second year. 
+              maintaining a strong <span className="text-neon-blue font-semibold">8.25 CGPA</span> in my third year. 
               My journey in AI and Machine Learning has been driven by a desire to solve real-world problems 
               through intelligent automation.
             </p>
