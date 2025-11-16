@@ -96,7 +96,6 @@ export default function Skills() {
               <ul className="text-gray-300 space-y-1 text-sm">
                 <li>• Data Structures and Algorithms</li>
                 <li>• Object-Oriented Programming</li>
-                <li>• System Design</li>
               </ul>
             </div>
             <div>
